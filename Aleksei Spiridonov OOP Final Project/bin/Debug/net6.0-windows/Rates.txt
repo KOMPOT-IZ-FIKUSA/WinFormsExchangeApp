@@ -1,0 +1,30 @@
+Canada
+CAD
+1.25
+Eurozone
+EUR
+0.85
+United Kingdom
+GBP
+0.75
+Australia
+AUD
+1.35
+Japan
+JPY
+110
+Russia
+RUB
+60
+India
+INR
+74
+China
+CNY
+6.5
+Brazil
+BRL
+5.25
+South Africa
+ZAR
+14.5

@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleks\\source\\repos\\Aleksei Spiridonov OOP Final Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35B5A506-3AAE-424F-AB80-4D927713E16C}|Aleksei Spiridonov OOP Final Project\\Aleksei Spiridonov OOP Final Project.csproj|c:\\users\\aleks\\source\\repos\\aleksei spiridonov oop final project\\aleksei spiridonov oop final project\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35B5A506-3AAE-424F-AB80-4D927713E16C}|Aleksei Spiridonov OOP Final Project\\Aleksei Spiridonov OOP Final Project.csproj|solutionrelative:aleksei spiridonov oop final project\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B5A506-3AAE-424F-AB80-4D927713E16C}|Aleksei Spiridonov OOP Final Project\\Aleksei Spiridonov OOP Final Project.csproj|c:\\users\\aleks\\source\\repos\\aleksei spiridonov oop final project\\aleksei spiridonov oop final project\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B5A506-3AAE-424F-AB80-4D927713E16C}|Aleksei Spiridonov OOP Final Project\\Aleksei Spiridonov OOP Final Project.csproj|solutionrelative:aleksei spiridonov oop final project\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B5A506-3AAE-424F-AB80-4D927713E16C}|Aleksei Spiridonov OOP Final Project\\Aleksei Spiridonov OOP Final Project.csproj|c:\\users\\aleks\\source\\repos\\aleksei spiridonov oop final project\\aleksei spiridonov oop final project\\frmchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B5A506-3AAE-424F-AB80-4D927713E16C}|Aleksei Spiridonov OOP Final Project\\Aleksei Spiridonov OOP Final Project.csproj|solutionrelative:aleksei spiridonov oop final project\\frmchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B5A506-3AAE-424F-AB80-4D927713E16C}|Aleksei Spiridonov OOP Final Project\\Aleksei Spiridonov OOP Final Project.csproj|C:\\Users\\aleks\\source\\repos\\Aleksei Spiridonov OOP Final Project\\aleksei spiridonov oop final project\\frmchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35B5A506-3AAE-424F-AB80-4D927713E16C}|Aleksei Spiridonov OOP Final Project\\Aleksei Spiridonov OOP Final Project.csproj|solutionrelative:aleksei spiridonov oop final project\\frmchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B5A506-3AAE-424F-AB80-4D927713E16C}|Aleksei Spiridonov OOP Final Project\\Aleksei Spiridonov OOP Final Project.csproj|c:\\users\\aleks\\source\\repos\\aleksei spiridonov oop final project\\aleksei spiridonov oop final project\\frmadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B5A506-3AAE-424F-AB80-4D927713E16C}|Aleksei Spiridonov OOP Final Project\\Aleksei Spiridonov OOP Final Project.csproj|solutionrelative:aleksei spiridonov oop final project\\frmadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B5A506-3AAE-424F-AB80-4D927713E16C}|Aleksei Spiridonov OOP Final Project\\Aleksei Spiridonov OOP Final Project.csproj|c:\\users\\aleks\\source\\repos\\aleksei spiridonov oop final project\\aleksei spiridonov oop final project\\currencystorageaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B5A506-3AAE-424F-AB80-4D927713E16C}|Aleksei Spiridonov OOP Final Project\\Aleksei Spiridonov OOP Final Project.csproj|solutionrelative:aleksei spiridonov oop final project\\currencystorageaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B5A506-3AAE-424F-AB80-4D927713E16C}|Aleksei Spiridonov OOP Final Project\\Aleksei Spiridonov OOP Final Project.csproj|c:\\users\\aleks\\source\\repos\\aleksei spiridonov oop final project\\aleksei spiridonov oop final project\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B5A506-3AAE-424F-AB80-4D927713E16C}|Aleksei Spiridonov OOP Final Project\\Aleksei Spiridonov OOP Final Project.csproj|solutionrelative:aleksei spiridonov oop final project\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\Aleksei Spiridonov OOP Final Project\\Aleksei Spiridonov OOP Final Project\\frmMain.cs",
+              "RelativeDocumentMoniker": "Aleksei Spiridonov OOP Final Project\\frmMain.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\Aleksei Spiridonov OOP Final Project\\Aleksei Spiridonov OOP Final Project\\frmMain.cs",
+              "RelativeToolTip": "Aleksei Spiridonov OOP Final Project\\frmMain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:20:03.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CurrencyStorageAccess.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\Aleksei Spiridonov OOP Final Project\\Aleksei Spiridonov OOP Final Project\\CurrencyStorageAccess.cs",
+              "RelativeDocumentMoniker": "Aleksei Spiridonov OOP Final Project\\CurrencyStorageAccess.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\Aleksei Spiridonov OOP Final Project\\Aleksei Spiridonov OOP Final Project\\CurrencyStorageAccess.cs",
+              "RelativeToolTip": "Aleksei Spiridonov OOP Final Project\\CurrencyStorageAccess.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwB0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:19:52.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmChange.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\Aleksei Spiridonov OOP Final Project\\Aleksei Spiridonov OOP Final Project\\frmChange.cs",
+              "RelativeDocumentMoniker": "Aleksei Spiridonov OOP Final Project\\frmChange.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\Aleksei Spiridonov OOP Final Project\\Aleksei Spiridonov OOP Final Project\\frmChange.cs",
+              "RelativeToolTip": "Aleksei Spiridonov OOP Final Project\\frmChange.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:07:57.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmChange.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\Aleksei Spiridonov OOP Final Project\\Aleksei Spiridonov OOP Final Project\\frmChange.cs",
+              "RelativeDocumentMoniker": "Aleksei Spiridonov OOP Final Project\\frmChange.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\Aleksei Spiridonov OOP Final Project\\Aleksei Spiridonov OOP Final Project\\frmChange.cs [Design]",
+              "RelativeToolTip": "Aleksei Spiridonov OOP Final Project\\frmChange.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:07:55.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\Aleksei Spiridonov OOP Final Project\\Aleksei Spiridonov OOP Final Project\\frmAdmin.cs",
+              "RelativeDocumentMoniker": "Aleksei Spiridonov OOP Final Project\\frmAdmin.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\Aleksei Spiridonov OOP Final Project\\Aleksei Spiridonov OOP Final Project\\frmAdmin.cs",
+              "RelativeToolTip": "Aleksei Spiridonov OOP Final Project\\frmAdmin.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAewEoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:45:07.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAdmin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\Aleksei Spiridonov OOP Final Project\\Aleksei Spiridonov OOP Final Project\\frmAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "Aleksei Spiridonov OOP Final Project\\frmAdmin.Designer.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\Aleksei Spiridonov OOP Final Project\\Aleksei Spiridonov OOP Final Project\\frmAdmin.Designer.cs",
+              "RelativeToolTip": "Aleksei Spiridonov OOP Final Project\\frmAdmin.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:45:00.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\Aleksei Spiridonov OOP Final Project\\Aleksei Spiridonov OOP Final Project\\frmAdmin.cs",
+              "RelativeDocumentMoniker": "Aleksei Spiridonov OOP Final Project\\frmAdmin.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\Aleksei Spiridonov OOP Final Project\\Aleksei Spiridonov OOP Final Project\\frmAdmin.cs [Design]",
+              "RelativeToolTip": "Aleksei Spiridonov OOP Final Project\\frmAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:44:58.785Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

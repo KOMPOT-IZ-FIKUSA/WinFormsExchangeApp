@@ -1,0 +1,18 @@
+C:\Users\aleks\source\repos\Aleksei Spiridonov OOP Final Project\Aleksei Spiridonov OOP Final Project\bin\Debug\net6.0-windows\Aleksei Spiridonov OOP Final Project.exe
+C:\Users\aleks\source\repos\Aleksei Spiridonov OOP Final Project\Aleksei Spiridonov OOP Final Project\bin\Debug\net6.0-windows\Aleksei Spiridonov OOP Final Project.deps.json
+C:\Users\aleks\source\repos\Aleksei Spiridonov OOP Final Project\Aleksei Spiridonov OOP Final Project\bin\Debug\net6.0-windows\Aleksei Spiridonov OOP Final Project.runtimeconfig.json
+C:\Users\aleks\source\repos\Aleksei Spiridonov OOP Final Project\Aleksei Spiridonov OOP Final Project\bin\Debug\net6.0-windows\Aleksei Spiridonov OOP Final Project.dll
+C:\Users\aleks\source\repos\Aleksei Spiridonov OOP Final Project\Aleksei Spiridonov OOP Final Project\bin\Debug\net6.0-windows\Aleksei Spiridonov OOP Final Project.pdb
+C:\Users\aleks\source\repos\Aleksei Spiridonov OOP Final Project\Aleksei Spiridonov OOP Final Project\obj\Debug\net6.0-windows\Aleksei Spiridonov OOP Final Project.csproj.GenerateResource.cache
+C:\Users\aleks\source\repos\Aleksei Spiridonov OOP Final Project\Aleksei Spiridonov OOP Final Project\obj\Debug\net6.0-windows\Aleksei Spiridonov OOP Final Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\source\repos\Aleksei Spiridonov OOP Final Project\Aleksei Spiridonov OOP Final Project\obj\Debug\net6.0-windows\Aleksei Spiridonov OOP Final Project.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\Aleksei Spiridonov OOP Final Project\Aleksei Spiridonov OOP Final Project\obj\Debug\net6.0-windows\Aleksei Spiridonov OOP Final Project.AssemblyInfo.cs
+C:\Users\aleks\source\repos\Aleksei Spiridonov OOP Final Project\Aleksei Spiridonov OOP Final Project\obj\Debug\net6.0-windows\Aleksei Spiridonov OOP Final Project.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\Aleksei Spiridonov OOP Final Project\Aleksei Spiridonov OOP Final Project\obj\Debug\net6.0-windows\Aleksei Spiridonov OOP Final Project.dll
+C:\Users\aleks\source\repos\Aleksei Spiridonov OOP Final Project\Aleksei Spiridonov OOP Final Project\obj\Debug\net6.0-windows\refint\Aleksei Spiridonov OOP Final Project.dll
+C:\Users\aleks\source\repos\Aleksei Spiridonov OOP Final Project\Aleksei Spiridonov OOP Final Project\obj\Debug\net6.0-windows\Aleksei Spiridonov OOP Final Project.pdb
+C:\Users\aleks\source\repos\Aleksei Spiridonov OOP Final Project\Aleksei Spiridonov OOP Final Project\obj\Debug\net6.0-windows\Aleksei Spiridonov OOP Final Project.genruntimeconfig.cache
+C:\Users\aleks\source\repos\Aleksei Spiridonov OOP Final Project\Aleksei Spiridonov OOP Final Project\obj\Debug\net6.0-windows\ref\Aleksei Spiridonov OOP Final Project.dll
+C:\Users\aleks\source\repos\Aleksei Spiridonov OOP Final Project\Aleksei Spiridonov OOP Final Project\obj\Debug\net6.0-windows\Aleksei_Spiridonov_OOP_Final_Project.frmChange.resources
+C:\Users\aleks\source\repos\Aleksei Spiridonov OOP Final Project\Aleksei Spiridonov OOP Final Project\obj\Debug\net6.0-windows\Aleksei_Spiridonov_OOP_Final_Project.frmMain.resources
+C:\Users\aleks\source\repos\Aleksei Spiridonov OOP Final Project\Aleksei Spiridonov OOP Final Project\obj\Debug\net6.0-windows\Aleksei_Spiridonov_OOP_Final_Project.frmAdmin.resources
